@@ -1,0 +1,4 @@
+repository "GazaSurvivors/GazaSurvivors@7971809537694@cloud"
+  path "/"
+    br "/main"
+    co "/main"
