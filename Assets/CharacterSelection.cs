@@ -8,6 +8,7 @@ public class CharacterSelection : MonoBehaviour
     {
         GameManager.Instance.StartGame(Side.Israel);
     }
+
     public void SelectPalestine()
     {
         GameManager.Instance.StartGame(Side.Palestine);
